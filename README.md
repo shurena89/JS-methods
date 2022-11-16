@@ -1,2 +1,8 @@
 # JS-methods
-forEach, map, filter, reduce, find, findIndex
+
+*forEach
+*map
+*filter
+*reduce
+*find
+*findIndex
